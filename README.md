@@ -1,15 +1,4 @@
 # CIO
-PyCharm Community edition supports Jupyter notebooks in read-only mode, to get full support for local notebooks download and try PyCharm Professional now!
-
-
-Try DataSpell — a dedicated IDE for data science,
-with full support for local and remote notebooks
-
-
-Try Datalore — an online environment
-for Jupyter notebooks in the browser
-
-Also read more about JetBrains Data Solutions on our website
 
 The code of final project of Computational Intelligence Optimization (052022-IMK), Marzieh Khalili Chachaki-TP067265, August 2022
 
